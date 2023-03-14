@@ -22,7 +22,7 @@ and pairwise cross correlation. However, we (Andrew and I) quickly
 realised that constructions alone are not a great commercial offering 
 and this program morphed into a research platform. 
 
-This program has been, more or less, used since around the end of 2015. 
+This program has been, more or less, unused since around the end of 2015. 
 
 Subsequent to the creation of this program, some of these constructions 
 were patented by Optimark in the US and should not be used without their
